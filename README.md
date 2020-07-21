@@ -2,6 +2,8 @@
 
 Soy Damián Catanzaro, programador y creador de https://cafecito.app/
 
+[![Twitter: DamianCatanzaro](https://img.shields.io/twitter/follow/DamianCatanzaro)](https://twitter.com/damiancatanzaro)
+
 A principio de este año me propuse hacer crecer mi perfil ayudando a la comunidad de sistemas, para esto creé un blog en donde estoy subiendo serie de tutoriales, ya sean desde 0 o avanzados, para todos los niveles.
 
 Blog: https://damiancatanzaro.com/blog
